@@ -1,1 +1,1 @@
-# -Employee-Email-and-Password-Generator
+# Employee-Email-and-Password-Generator
